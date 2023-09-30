@@ -12,6 +12,8 @@
 
 .nav-list{
     width: 50%;
+    background-color: aquamarine;
+    
 }
 .nav-list li{
 
@@ -23,6 +25,7 @@
 
 .rightNav{
     width: 50%;
+    background-color: aqua;
     text-align: right;
 
 }
