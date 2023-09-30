@@ -4,7 +4,16 @@
 }
 
 .logo{
-    width: 20px;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo img{
+    width: 30%;
+    border-radius: 50%;
+    border-color: aliceblue;
 }
 .navbar{
     display: flex;
