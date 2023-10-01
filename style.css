@@ -17,6 +17,7 @@
 }
 .navbar{
     display: flex;
+    background-color: black;
 }
 
 .nav-list{
@@ -28,13 +29,13 @@
 }
 .nav-list li{
     list-style: none;
-    padding: 26px 30px;
+    padding: 30px 35px;
 
 }
 
 .nav-list li a{
     text-decoration: none;
-    color: aqua;
+    color: white;
 }
 
 .nav-list li a:hover{
